@@ -2,7 +2,4 @@
 
 This is a really awesome website
 
-Edit on example branch
-
-Locally made some edits
-
+Update README on main before doing a Github rebase
